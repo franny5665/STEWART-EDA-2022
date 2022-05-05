@@ -32,9 +32,9 @@ I compared the following aspects; finance/income (poverty/food insecurity) US ad
 
 -   To get the AMI data, I went to the Mental Health America (MHA, a nonprofit) website, and look at the 2016-2022 adult rankings. AMI stands for any mental health illness; for example, ADHD, Autism, etcetra.
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-4FF5F9E4.png" width="270"/>
+<img src="Picture4.jpg" width="367"/>
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-F72DD6AA.png" width="257"/>
+<img src="Picture2.gif" width="357"/>
 
 ## Results
 
@@ -141,7 +141,7 @@ Would these things impact any emotional, physiological,and social aspects of you
 
 To conclude, based off the data we collected from the SNAP users and the US Census Poverty levels that increased during 2020, this is a big reason for the increase in AMI numbers during the COVID-19 Pandemic. The impacts of COVID, can explain why Americas overall mental health has been getting worse. Once the pandemic is declared done and no one is experiencing COVID-19's affects, we expect to see poverty numbers and snap users decrease, which will hopefully help bring down the number of AMI's.
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-438B2B26.png" width="317"/>
+<img src="mental.png" width="259"/>
 
 ## References
 

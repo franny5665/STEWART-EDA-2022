@@ -36,9 +36,9 @@ the impacts the pandemic had on mental health.
     stands for any mental health illness; for example, ADHD, Autism,
     etcetra.
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-4FF5F9E4.png" width="270"/>
+<img src="Picture4.jpg" width="367"/>
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-F72DD6AA.png" width="257"/>
+<img src="Picture2.gif" width="357"/>
 
 ## Results
 
@@ -115,7 +115,7 @@ experiencing COVID-19’s affects, we expect to see poverty numbers and
 snap users decrease, which will hopefully help bring down the number of
 AMI’s.
 
-<img src="C:/Users/franc/AppData/Local/RStudio/tmp/paste-438B2B26.png" width="317"/>
+<img src="mental.png" width="259"/>
 
 ## References
 
